@@ -1,0 +1,29 @@
+Todo profissional tem a sua ferramenta, ou ferramentas, de trabalho. Pro Cientista de Dados a linguagem de programação é, provavelmente, a mais importante pois é ela que vai lhe permitir trabalhar de forma eficaz e eficiente com grandes conjuntos de dados. Então é de grande importância que ele conheça as diferentes opções disponíveis e seus pontos fortes e fraquezas.
+Separamos 4 linguagens que são consideradas as mais populares:
+
+*Python:
+Python é uma linguagem de código aberto, o que significa que qualquer pessoa tem acesso ao código-fonte e pode modificá-la de acordo com suas necessidades.
+Isto significa a comunidade pode facilmente criar libraries para atender necessidades específicas. Algumas das libraries de python que são bastante populares na ciência de dados são:
+NumPy: que oferece uma coleção de funções matemáticas avançadas.
+pandas: que é uma library focada na área de Data Manipulation com suporte a importação de bancos de dados (CSV, Excel, SQL, HDF5 Hierarchical Data Format).
+Matplotlib: que é focada na criação de gráficos e visualizações interativas.
+scikit-learn: usada pro desenvolvimento de algoritmos de Machine Learning.
+TensorFlow: criada pela Google, é um framework computacional para desenvolvimento de algoritmos de Machine Learning e Deep Learning.
+Keras: library para treinar Neural Networks.
+
+*R
+A linguagem R foi desenvolvida especificamente para Data Science e Data Analysis e é uma concorrente direta à Python.
+Ela possui uma grande biblioteca de métodos estatísticos, incluindo modelagem linear e não-linear, testes estatísticos clássicos, análise de séries temporais, classificação e etc.
+Também é de código aberto, assim como Python. Algumas das libraries mais populares são: Dplyr, Ggplot2, Esquisse, BioConductor e Shiny.
+
+*SQL
+SQL é bastante conhecida como uma linguagem para criação e comunicação com bancos de dados relacionais, porém ela é capaz de muito mais que isso.
+Nos últimos tempos ela tem recebido mais atenção pelos cientistas de dados e consequentemente foi se tornando cada vez mais robusta e complexa.
+Com SQL, o usuário pode armazenar os dados desejados em um banco de dados e, através de scripts, atualizá-los automaticamente. Além disso existem também funcionalidades para a criação de relatórios, gráficos e painéis de controle a partir dos dados.
+
+*Java
+Java também é uma linguagem que também pode ser usada para ciência de dados, isso devido à sua alta versatilidade. Ela possui orientação a objetos, o que possibilita aos usuários a criação de algoritmos de alta complexidade com relativa facilidade.
+Outro ponto forte da linguagem Java é a sua compatibilidade com diversos dispositivos. Como diz a famosa frase: "Write once, run anywhere", Escreva uma vez, rode em qualquer lugar.
+Assim como nas linguagens mencionadas anteriormente, Java possui frameworks e libraries voltadas para a ciência de dados. Tais como: Hadoop e Spark (Frameworks) que ajudam na performance dos algoritmos na hora de trabalhar com uma quatidade massiva de dados através do uso de pipelines e parallel processing. Também temos a Gephi, que é uma library muito utilizada, para visualização de dados. Também temos outras libraries, que valem a pena mencionar, como: DeepLearning4j e TensorFlow
+
+Essas 4 linguagens são as mais populares dos últimos anos. Porém existem várias outras que são viáveis para a utilização na ciência de dados que valem a pena serem mencionadas, tais como: C/C++, JavaScript, Scala, Julia, Matlab, SAS (Statistical Analysis System), Swift e Go.

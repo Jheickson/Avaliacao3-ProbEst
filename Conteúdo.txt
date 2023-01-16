@@ -1,0 +1,106 @@
+Linguagens mais recomendadas para Ciência de Dados:
+Python - 5
+R - 5
+Scala - 4
+SAS - 3
+Java - 4
+Matlab - 4
+Julia - 5
+C - 4
+C++ - 4
+SQL - 5
+JavaScript - 3
+Swift -
+Go
+
+-----------------------------------------------------------------
+
+Introdução
+
+Programming languages are often thought of as being essential tools for computer scientists, software developers, and mathematically-inclined people, but they are even more important for data scientists. Data scientists are the individuals in charge of interpreting volumes of raw information and turning it into actionable data and insights. To do this, they need tools that enable them to work effectively and efficiently with large data sets and complicated analytical techniques. One such tool is a programming language.
+
+A programming language allows a data scientist to process large amounts of data quickly. By using a language, a data scientist can access vast data sources to build models, visualize data, and analyze patterns. They can also automate processes that would otherwise take a long time to complete, such as gathering data from multiple sources and merging them into usable sets. Writing code also allows data scientists to use coding libraries and frameworks which provide pre-built pieces of code that can be used in a variety of scenarios.
+
+Moreover, programming languages make it easier for data scientists to manipulate, clean, and transform data in order to create accurate and reliable models. By writing code, data scientists can easily create data pipelines that can clean data and add relevant information, such as timestamps. This replaces the laborious task of manually cleaning and transforming data, something that would take hours in Excel or SQL. Programming languages also allow data scientists to quickly process and analyze large volumes of data, allowing them to uncover hidden insights and valuable correlations.
+
+Finally, a programming language is essential for data scientists who want to create predictive models and machine learning algorithms. Machine learning relies heavily on programming languages, as the algorithms used are written in code and must be “trained” via coding. Without the ability to write code, a data scientist will not be able to use machine learning algorithms and will be limited to traditional analytical techniques.
+
+In conclusion, a programming language is an essential tool for any data scientist. It allows them to quickly process and analyze large data sets, clean and transform data, and create predictive models and machine learning algorithms. It is an invaluable asset to any data scientist and can give them the ability to discover hidden insights and uncover valuable correlations.
+
+
+Python
+
+TinyWow (Essay Writer)
+
+	Input:
+	
+the programming language Python used as a Data Science tool.
+
+	Output:
+	
+Python has become one of the most widely used programming languages over the last few decades, and its popularity in the field of data science is no longer in dispute. Due to its ease of use, availability of powerful modules, and a diverse set of applications, Python has established itself as one of the leading data science tools.
+
+Python is an open source language, meaning anyone has access to the source code and can modify it to suit their needs. This flexibility means that data scientists can easily customize the language as necessary, allowing them to create unique and advanced applications. Furthermore, the language features an intuitive and relatively easy-to-learn syntax, making it accessible for data science practitioners who may not have a great deal of programming experience. As a result, data professionals can quickly become proficient in the language, enabling them to focus on their core data analysis tasks.
+
+The language also provides access to a wide range of powerful libraries and modules. Popular packages such as Pandas, NumPy, and SciPy provide data professionals various high-level algorithms and intuitive data structures, greatly expanding the scope of their data analysis. Additionally, Python is not limited to work in a particular space, as its many applications can be applied to different domains. Data scientists can thus use the language to develop machine learning models, build natural language processing applications, and even create web-based data visualizations.
+
+In addition, Python has superb community support, with developers of all skill levels available to answer questions, perhaps even around the clock. This means data science practitioners can quickly find the help they need, no matter their level of knowledge. Furthermore, Python is regularly updated and maintained, which means any changes or improvements are quickly put into effect for the benefit of the user.
+
+Overall, Python has become a popular tool for data science practitioners due to its versatility, and availability of powerful modules, intuitive syntax, and robust community support. It’s therefore no surprise that Python is used by many of the world’s leading organizations for data analysis, machine learning, and artificial intelligence. With the help of the language, data scientists can create powerful applications to reach their goals faster, enabling them to draw valuable insights from the data at their disposal.
+
+
+R
+
+	Input:
+	
+the programming language R used as a Data Science tool
+
+	Output:
+
+Data Science has become an increasingly popular field where professionals are in high demand for the development, analysis, and interpretation of large-scale datasets. With the storage and collection of data growing exponentially in recent years, the need for efficient and robust tools to manage and explore the data has become even more pertinent. One of the most popular and powerful tools available for data science use is the programming language R.
+
+R is a domain-specific statistical language and integrated framework developed specifically for data science and data analysis. It provides a wide range of functionality for the manipulation of data, including basic operations like sorting, filtering, and joining data, as well as more complicated analysis functions, like clustering and deep learning. R is free and open-source, meaning its code can be viewed, modified, and redistributed. This makes it even more attractive since users can easily create custom algorithms and scripts to fit their specific project needs.
+
+At the core of R lies its statistical capabilities. It’s constantly evolving and its development team actively works to update the language in a way that takes advantage of the latest technological trends. R contains a large library of statistical methods, including linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, and many more. It also integrates with popular data science frameworks like Apache Spark, so users can leverage distributed computing power to gain insights quickly. 
+
+R is especially useful for exploratory data analysis. Its rich set of graphical tools enable users to create effective data visualizations quickly and easily, can uncover hidden patterns and correlations that lead to better insights. It can also explore potential relationships between variables, making it easier to find correlations or outliers. These graphical capabilities can help the data scientist understand their data better before they go on to develop more complex models.
+
+Finally, R is a great choice for data science because of its open-source nature. Open-source tools are highly customizable, so users can write their own code to extend the language’s capabilities and build custom scripts to address their specific data-related needs. This means that users can take full control of the way their data is analyzed and interpreted, and can make sure that their analysis is efficient and accurate.
+
+All in all, R is an incredibly powerful, robust, and popular tool for data science. Its countless features and capabilities make it highly suitable for data analysis and exploring. It has the potential to take a data scientist’s project from inception to completion, slicing, dicing, and modeling data along the way. With its open-source nature and customization options, R is sure to remain an integral part of the data science landscape for years to come.
+
+
+Julia
+SQL
+
+	Output:
+
+SQL is a programming language for interacting with data in relational databases. It has long been used for business applications and scientific research, but in recent years, data science has started to adopt SQL more and more. As data science has become increasingly important and complex, SQL offers a powerful set of tools to scientists and analysts looking to get familiar and comfortable with working with data.
+
+SQL is used to search, retrieve, analyze, manipulate, and visualize data, making it a great tool for all kinds of data science tasks. By using SQL queries, data scientists can quickly create complex queries, even on very large datasets in seconds. This makes SQL the ideal tool for data exploration. For example, writing a query with multiple table joins, filtering and aggregations can quickly yield insights that may have taken much longer to unearth with other programming languages.
+
+In addition to being a great tool for data exploration and data analysis, SQL is also a great tool for data storage and management. With SQL, data scientists can store data in highly structured data stores and can be confident that the data is always up to date and accurate. This makes SQL ideal for datasets that take many iterations to master, as data scientists can efficiently go back and make changes to their underlying data stores as needed.
+
+Further, SQL can be used to create reports, charts, and dashboards from the data. This is especially useful when there is a need to report results or visualize trends in the data. SQL can easily be used to create these reports, with detailed visualizations including pie charts, bar graphs, scatter plots, and more.
+
+Finally, SQL can be used to automate and streamline data science tasks. With SQL, data scientists can create scripts that will run complex queries in response to changes in the data, or upon the completion of data processing tasks. These scripts can be used to automate and simplify routine tasks, so data scientists can focus more of their time on exploring data and understanding insights.
+
+In short, SQL is an incredibly powerful tool for data scientists in their work. From data exploration and analysis to reporting and automation, SQL has the capabilities to be a great asset to data science projects.
+
+Java
+
+	Output:
+	
+In today's technological world, data-driven decisions drive businesses and organizations. Data science is a key tool providing meaningful insights beyond basic spreadsheet analysis and primary data sources. Java is a powerful programming language often employed in data science that helps to support this type of analysis.
+
+Java has emerged as a popular tool for data science due to its inherent versatility. Java is based on the object-oriented programming (OOP) approach, which allows programs to be broken down into objects, components, and functions. This makes it easier for developers to manipulate data and develop complex algorithms with relative ease. In addition, Java can be easily deployed in both web and desktop applications, meaning it can be used to align real-time applications to support analysis.
+
+Java provides many optimized data processing frameworks, such as Hadoop and Spark, allowing for massive data sets to be manipulated efficiently. These tools provide crucial support for managing data pipelines and performing operations such as parallel processing. They automate common processes such as data ingestion, cleaning, formatting and analysis, therefore providing invaluable support for data scientists.
+
+In addition, the Java library, Gephi, is widely used for data visualization. This library contains a number of useful components for presenting complex data in an attractive, easily interpretable layout. This enables data scientists to visualize their results in meaningful ways that communicate information effectively.
+
+Java has also benefited from a range of additional support libraries that have made it easier to perform data science tasks. These libraries, such as Weka, MLlib, Deeplearning4j, and TensorFlow, provide ready-made functionality. This reduces development time and lets developers focus on the data analysis side of projects, rather than the development side.
+
+In summary, Java has established itself as a powerful data science tool. It excels in handling complex datasets due to its OOP approach and its ability to interact with large data pipelines. Moreover, it has a range of data visualization and data libraries that can speed up development time and provide powerful support for operations. This makes Java an excellent choice for organizations looking to utilize data science for meaningful insights.
+
+Matlab
